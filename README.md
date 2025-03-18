@@ -35,7 +35,7 @@ This repository contains my roadmap and learning path to become a **Full-Stack M
      - [GraphQL Docs](https://graphql.org/)
    - **Project Ideas**:
      - Build a REST API for a blog app (CRUD operations).
-     - Build a GraphQL API for a task management app.
+     - Build a GraphQL API for a task management app...
 
 ---
 
