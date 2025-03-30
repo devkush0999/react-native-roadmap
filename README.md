@@ -3,7 +3,7 @@
 
 This repository contains my roadmap and learning path to become a **Full-Stack Mobile Developer**. It includes skills, resources, and project ideas to master React Native, API development, AWS services, state management, performance optimization, testing, authentication, CI/CD, serverless functions, and best practices.
 
----
+-----
 
 ## Skills to Master
 
