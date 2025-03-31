@@ -55,7 +55,7 @@ This repository contains my roadmap and learning path to become a **Full-Stack M
 
 ---
 
-### 4. **State Management**
+### 4. **State Management**..
    - **What to Learn**:
      - Redux: Actions, Reducers, Store, Middleware (Redux Thunk/Saga).
      - Context API: useContext, useReducer.
