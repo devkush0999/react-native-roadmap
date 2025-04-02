@@ -23,7 +23,7 @@ This repository contains my roadmap and learning path to become a **Full-Stack M
 
 ---
 
-### 2. **API Development & Integration**
+### 2. **API Development & Integration**9
    - **What to Learn**:
      - REST APIs: HTTP methods (GET, POST, PUT, DELETE), status codes, headers.
      - GraphQL: Queries, Mutations, Subscriptions.
