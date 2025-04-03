@@ -11,7 +11,7 @@ This repository contains my roadmap and learning path to become a **Full-Stack M
    - **What to Learn**:
      - Core Concepts: Components, Props, State, JSX, Styling.
      - Navigation: React Navigation (Stack, Tab, Drawer).
-     - Native Modules: Integration with Java/Kotlin (Android) and Swift/Objective-C (iOS).
+     - Native Modules: Integration with Java/Kotlin (Android) and Swift/Objective-C (iOS)....
      - Third-Party Libraries: React Native Paper, NativeBase.
      - Performance Optimization: FlatList, memoization, lazy loading.
    - **Resources**:
