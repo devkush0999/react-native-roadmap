@@ -13,7 +13,7 @@ This repository contains my roadmap and learning path to become a **Full-Stack M
      - Navigation: React Navigation (Stack, Tab, Drawer).
      - Native Modules: Integration with Java/Kotlin (Android) and Swift/Objective-C (iOS)....
      - Third-Party Libraries: React Native Paper, NativeBase.
-     - Performance Optimization: FlatList, memoization, lazy loading.
+     - Performance Optimization: FlatList, memoization, lazy loading...
    - **Resources**:
      - [React Native Docs](https://reactnative.dev/docs/getting-started)
      - [React Navigation Docs](https://reactnavigation.org/)
